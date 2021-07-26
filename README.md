@@ -5,7 +5,7 @@ Idea of the project is to simulate an event where customers arrive at different 
 Here are the conditions:
 
 - Customers can be classified as either normal customers or greedy customers (whom will choose to join servers with the shortest queue)
-- Customers have a designated arrival time and serving time.
+- Customers have a designated arrival time and serving duration.
 - Servers can rest after finishing serving a customer.
 - Arrival times and serving times of customers will be randomly generated.
 - the probability at which a server rests and probability that a customer is greedy is randomly generated.
