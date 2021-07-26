@@ -8,6 +8,10 @@ import cs2030.simulator.Event;
 import cs2030.simulator.Server;
 import cs2030.simulator.EComp;
 
+/** Responsible for parsing in the user inputs.
+
+*/
+
 class Main5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
