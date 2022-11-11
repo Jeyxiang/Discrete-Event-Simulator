@@ -22,4 +22,4 @@ Depending on the status of the servers and type of customers, there are several 
 A server can then enter a Rest state after serving its customers. After all the events, we can determined the average waiting time, the number of customers that
 left without being served, and the total customers that were served.
 
-This project is simply my solution/attempt at the project and in no means the model answer to the problem. I am open to any discussions and feedbacks regarding my submission :)
+This project is simply my solution/attempt at the project and by no means the model answer to the problem. I am open to any discussions and feedbacks regarding my submission :)
